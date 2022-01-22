@@ -5,7 +5,7 @@ var logger = require('morgan');
 var moment = require('moment');
 var cors = require('cors')
 
-/*New data1 - Vinod */
+/*New data1 - Vinod -- Feature developed in 1.1*/
 const port = 3000
 
 /*var corsOptions = {

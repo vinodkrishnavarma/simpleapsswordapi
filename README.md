@@ -10,5 +10,4 @@ A Sample readme data from vscode github extension
 
 
 new change in dev
-=======
 sdfsdfsdf
